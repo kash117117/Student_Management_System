@@ -49,7 +49,5 @@ d. enrollments.txt: student ID|subject code
 a. Student: Holds arguments for student ID, name, section
 b. Subject: Holds arguments for subject code, subject name, subject credit hours.
 c. Record: Holds the performance data for a single subject, including grades, averages grades and attendance.
-d. SystemManager: Handles file loading and data saving, user input data validation, and 
-
-Business logic (Enrolling, Grading, Reporting).
+d. SystemManager: Handles file loading and data saving, user input data validation, and Enrolling, Grading, Reporting students and their respective subjects.
 
